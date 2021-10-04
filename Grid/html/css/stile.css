@@ -1,0 +1,76 @@
+.buttonTop{
+    display: flex;
+    justify-content: right;
+}
+.sobreGoogle{
+    background-color: transparent;
+    border: transparent;
+}
+.tienda{
+    margin-left: 1me;
+    background-color: transparent;
+    border: transparent;
+}
+.gmail{
+    position: relative;
+    margin-right: 10px;
+    border: transparent;
+    background-color: white;
+}
+.images{
+    position: relative;
+    margin-right: 10px;
+    border: transparent;
+    background-color: white;
+}
+
+.singIn{
+    background: rgb(72, 151, 216);
+    color: white;
+    border: transparent;
+
+}
+
+.google{
+  text-align: center;
+  margin-top: 25em;
+}
+.letras{
+    font-size: 10em;
+    margin: 0.2em;
+}
+.placeholder{
+    padding-left: 10em;
+    padding-right: 20em;
+    padding-bottom: 1em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+}
+.search{
+    margin-right: 1em;
+}
+
+.footer{
+
+    text-align:end;
+    padding: 0;
+    margin:0;
+    margin-top: 15em;
+    text-align:end;
+}
+
+.privacidad{
+    margin-right: 1em;
+    background-color: transparent;
+    border: transparent;
+}
+.terminos{
+    background-color: transparent;
+    border: transparent;
+}
+
+.configuracion{
+    margin-left: 1em;
+    background-color: transparent;
+    border: transparent;
+}
